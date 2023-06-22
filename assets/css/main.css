@@ -43,7 +43,7 @@
   		position: absolute;
   		top: -2px;
   		transform: translate(8px, 8px);
-  		transition: 2s ease-out;
+  		transition: 0.2s ease-out;
   		z-index: -1;
 	}
 
