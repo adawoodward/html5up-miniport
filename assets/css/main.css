@@ -2193,7 +2193,7 @@ input, select, textarea {
 			padding: 0 1.25em;
 		}
 
-			#nav a:hover {
+			/* #nav a:hover {
 				color: #fff !important;
 				background: #383838;
 			}
@@ -2212,7 +2212,7 @@ input, select, textarea {
 					border-left: solid 0.75em transparent;
 					border-right: solid 0.75em transparent;
 					border-top: solid 0.6em #282828;
-				}
+				} */
 
 /* Articles */
 
