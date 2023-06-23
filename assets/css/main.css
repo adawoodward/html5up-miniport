@@ -53,9 +53,12 @@
   		width: 100%;
   		position: absolute;
   		top: -2px;
-  		transform: translate(8px, 8px);
-  		transition: 0.2s ease-out;
-  		z-index: -1;
+		z-index: -1;
+		transform: translate(8px, 8px);
+		transition-duration: 0.2s;
+    	transition-timing-function: ease-out;
+    	transition-delay: 0s;
+    	transition-property: all;
 	}
 
 	.button-56:hover:after {
