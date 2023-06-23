@@ -9,7 +9,8 @@
 */
 
 .paper-plane {
-	margin-top: 10px;
+	position: relative;
+	top: -5px;
 }
 
 .button-56 {
