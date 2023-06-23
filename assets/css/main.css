@@ -15,6 +15,7 @@
 
 .buttons-top {
 	display: flex;
+	font-weight: bold;
 }
 
 .button-56 {
