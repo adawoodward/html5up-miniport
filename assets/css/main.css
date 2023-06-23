@@ -2058,7 +2058,7 @@ input, select, textarea {
 
 	.wrapper {
 		background-image: url("images/bg.png");
-		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+		/* box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1); */
 		padding: 8em 0 8em 0;
 		text-align: center;
 	}
@@ -2361,7 +2361,7 @@ input, select, textarea {
 			}
 
 		/* Button */
-
+/* 
 			input[type="button"],
 			input[type="submit"],
 			input[type="reset"],
@@ -2380,7 +2380,7 @@ input, select, textarea {
 				.button.large {
 					font-size: 1.2em;
 					letter-spacing: 0;
-				}
+				} */
 
 		/* Social */
 
