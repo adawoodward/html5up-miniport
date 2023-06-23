@@ -40,6 +40,7 @@
   -webkit-user-select: none;
   touch-action: manipulation;
   width: 200px;
+  margin-right: 20px;
 }
 
 	.button-56:after {
