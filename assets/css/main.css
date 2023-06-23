@@ -42,6 +42,7 @@
   touch-action: manipulation;
   width: 200px;
   margin-right: 20px;
+  display: inline-block;
 }
 
 	.button-56:after {
