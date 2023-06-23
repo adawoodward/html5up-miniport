@@ -37,6 +37,7 @@
   -webkit-user-select: none;
   touch-action: manipulation;
   width: 250px;
+  display: block;
 }
 
 .button-56 {
