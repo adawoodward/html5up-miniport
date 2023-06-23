@@ -73,6 +73,7 @@
 
 	.button-56:hover {
   		outline: 0;
+		background-color: #eeaba2;
 	}
 
 	@media (min-width: 768px) {
@@ -196,7 +197,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			background-color: #eeaba2;
+			/* color: #eeaba2; */
 		}
 
 		a img {
