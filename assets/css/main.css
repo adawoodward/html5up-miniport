@@ -35,6 +35,7 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  width: 25px;
 }
 
 	.button-56:after {
