@@ -13,6 +13,10 @@
 	top: 5px;
 }
 
+.buttons-top {
+	display: flex;
+}
+
 .button-56 {
   align-items: center;
   background-color: #fee6e3;
@@ -49,7 +53,7 @@
   		position: absolute;
   		top: -2px;
   		transform: translate(8px, 8px);
-  		transition: 0.2s;
+  		transition: 0.2s ease-out;
   		z-index: -1;
 	}
 
