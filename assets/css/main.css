@@ -143,10 +143,6 @@ p {
 	font-family: 'Nunito', sans-serif !important;
 }
 
-#nav {
-	font-family: 'Nunito', sans-serif !important;
-}
-
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -2110,7 +2106,7 @@ input, select, textarea {
 		cursor: default;
 		height: 3.5em;
 		line-height: 3.5em;
-		font-family: 'Nunito', sans-serif;
+		font-family: 'Nunito', sans-serif !important;
 	}
 
 		#nav ul {
@@ -2131,7 +2127,6 @@ input, select, textarea {
 			transition: background-color .2s ease-in-out;
 			position: relative;
 			display: block;
-			color: #fff;
 			text-decoration: none;
 			outline: 0;
 			font-weight: 600;
