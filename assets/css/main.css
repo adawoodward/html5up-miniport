@@ -142,7 +142,8 @@ section, summary, time, mark, audio, video {
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block;
+}
 
 body {
 	line-height: 1;
@@ -267,7 +268,6 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		/* color: #3e3e3e; */
 		margin: 0 0 0.75em 0;
-		color: #1c2273;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
