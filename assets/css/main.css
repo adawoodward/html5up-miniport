@@ -144,6 +144,10 @@ p {
 	font-family: 'Nunito', sans-serif !important;
 }
 
+nav {
+	font-family: 'Nunito', sans-serif !important;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
