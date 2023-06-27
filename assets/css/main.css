@@ -2052,7 +2052,7 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-image: none;
 			/* background-color: #fff; */
-			background-color: #eef9fc;
+			background-color: rgb(235,243,235);
 		}
 
 		.wrapper.style2 {
