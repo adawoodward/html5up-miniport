@@ -1730,7 +1730,7 @@ input, select, textarea {
 			/* background-color: #eeaba2; */
 			/* background-color: #e4f0ed; */
 			/* background-color: #53984d; */
-			/* text-shadow: 1px 1px 0px #fff; */
+			text-shadow: 1px 1px 0px #fff;
 		}
 
 		.wrapper.style3 {
