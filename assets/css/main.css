@@ -30,6 +30,7 @@ button {
 	font-weight: 700;
 	text-transform: uppercase;
 	font-family: 'Nunito', sans-serif;
+	margin-bottom: 3px;
   }
   
   button.big-button {
