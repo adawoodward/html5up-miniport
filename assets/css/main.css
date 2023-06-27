@@ -29,7 +29,7 @@ button {
 	color: var(--colorShadeA);
 	font-weight: 700;
 	text-transform: uppercase;
-	font-family: inherit;
+	font-family: 'Nunito', sans-serif;
   }
   
   button.big-button {
