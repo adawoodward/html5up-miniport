@@ -3,11 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&display=swap');
 
-/*
-	Miniport by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* .wrapper.style4.footer {
 	padding: 0px;
@@ -2052,7 +2047,7 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-image: none;
 			/* background-color: #fff; */
-			background-color: rgb(235,243,235);
+			background-color: #eff0ed;
 		}
 
 		.wrapper.style2 {
