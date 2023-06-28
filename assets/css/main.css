@@ -64,7 +64,7 @@
 	--colorShadeD: rgb(187, 232, 211);
 	--colorShadeE: rgb(205, 255, 232);
   }
-
+/* 
 button {
 	position: relative;
 	display: inline-block;
@@ -123,7 +123,7 @@ button {
   
 	box-shadow: 0 0 0 2px var(--colorShadeB), 0 0.25em 0 0 var(--colorShadeB);
   }
-  
+   */
 
 .paper-plane {
 	position: relative;
