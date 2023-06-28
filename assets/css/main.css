@@ -47,8 +47,8 @@
   .icon svg{
 	width: 30px;
 	position: absolute;
-	top: calc(50% - 10px);
-	left: calc(50% - 10px);
+	top: calc(50% - 100px);
+	left: calc(50% - 100px);
 	transform: rotate(-45deg);
 	fill: #2ecc71;
 	transition: all .35s;
