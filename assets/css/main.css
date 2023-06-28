@@ -47,8 +47,8 @@
   .icon svg{
 	width: 30px;
 	position: absolute;
-	top: calc(50% - 100px);
-	left: calc(50% - 100px);
+	top: calc(50% - 15px);
+	left: calc(50% - 15px);
 	transform: rotate(-45deg);
 	fill: #2ecc71;
 	transition: all .35s;
@@ -1887,7 +1887,7 @@ input, select, textarea {
 		}
 
 /* Icons */
-
+/* 
 	.icon {
 		text-decoration: none;
 		text-decoration: none;
@@ -1931,7 +1931,7 @@ input, select, textarea {
 
 			.icon.featured:before {
 				font-size: 6em;
-			}
+			} */
 
 /* Wrappers */
 
