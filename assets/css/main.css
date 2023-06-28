@@ -121,6 +121,8 @@
   overflow: hidden;
   z-index: 1;
   font-family: 'Nunito', sans-serif;
+  position: relative;
+  left: 50%;
 }
   .button::after {
     content: '';
