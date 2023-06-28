@@ -122,7 +122,7 @@
   z-index: 1;
   font-family: 'Nunito', sans-serif;
 }
-  .button:after {
+  .button::after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -133,7 +133,7 @@
     border-radius: 10rem;
     z-index: -2;
   }
-  .button:before {
+  .button::before {
     content: '';
     position: absolute;
     bottom: 0;
@@ -148,7 +148,7 @@
   .button:hover {
     color: #fff;
   }
-  .button:hover:before {
+  .button:hover::before {
     width: 100%;
 }
   
