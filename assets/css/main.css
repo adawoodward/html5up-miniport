@@ -122,7 +122,6 @@
   z-index: 1;
   font-family: 'Nunito', sans-serif;
   position: relative;
-  left: -5%;
 }
   .button::after {
     content: '';
