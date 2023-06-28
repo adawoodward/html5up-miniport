@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&display=swap');
 
-
+/* 
 .btn-three {
 	color: #FFF;
 	transition: all 0.5s;
@@ -40,7 +40,8 @@
   .btn-three:hover::after {
 	opacity: 1;
 	transform: scale(1,1);
-  }
+  } */
+
 /* .wrapper.style4.footer {
 	padding: 0px;
 } */
@@ -86,9 +87,9 @@
   .button:hover {
     color: #fff;
   }
-    .button:before {
-      width: 100%;
-    }
+  .button:hover:before {
+    width: 100%;
+}
   
 
 
