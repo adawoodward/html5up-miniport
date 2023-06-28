@@ -23,7 +23,7 @@
   overflow: hidden;
   z-index: 1;
 }
-  .button:after {
+  button:after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -34,7 +34,7 @@
     border-radius: 10rem;
     z-index: -2;
   }
-  .button:before {
+  button:before {
     content: '';
     position: absolute;
     bottom: 0;
@@ -46,12 +46,13 @@
     border-radius: 10rem;
     z-index: -1;
   }
-  .button:hover {
+  button:hover {
     color: #fff;
-    &:before {
+  }
+    .button:before {
       width: 100%;
     }
-  }
+  
 
 
 
@@ -64,6 +65,7 @@
 	--colorShadeD: rgb(187, 232, 211);
 	--colorShadeE: rgb(205, 255, 232);
   }
+
 /* 
 button {
 	position: relative;
